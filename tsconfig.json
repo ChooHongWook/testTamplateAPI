@@ -4,6 +4,7 @@
 
     /* Language and Environment */
     "target": "es6" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "experimentalDecorators": true /* Enable experimental support for TC39 stage 2 draft decorators. */,
 
     /* Modules */
     "module": "commonjs" /* Specify what module code is generated. */,
